@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<ArrayOfSpeise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Speise>
+    <SpeiseID>1001</SpeiseID>
+    <Name>Tomaten-Kartoffel-Suppe</Name>
+    <Speiseart>86</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten>
+      <Zutat>
+        <ZutatID>1001</ZutatID>
+        <Menge>3</Menge>
+        <Einheit>Gramm</Einheit>
+        <Bezeichnung>Mehl</Bezeichnung>
+        <Allergene>A</Allergene>
+      </Zutat>
+    </ListeZutaten>
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\tomaten-kartoffel-suppe.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1002</SpeiseID>
+    <Name>Tomaten.Mozzarella</Name>
+    <Speiseart>86</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\Tomaten-Mozarella.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1003</SpeiseID>
+    <Name>Nudelsalat</Name>
+    <Speiseart>86</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\Nudelsalat.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1004</SpeiseID>
+    <Name>Pizza</Name>
+    <Speiseart>72</Speiseart>
+    <Bewertung>*****</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\Pizza.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1006</SpeiseID>
+    <Name>Burger</Name>
+    <Speiseart>72</Speiseart>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\Burger.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1007</SpeiseID>
+    <Name>Sachertorte</Name>
+    <Speiseart>78</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\Sachertorte.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1008</SpeiseID>
+    <Name>Vanilleeis</Name>
+    <Speiseart>78</Speiseart>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\Vanilieneis.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1009</SpeiseID>
+    <Name>Halloween-Snack</Name>
+    <Speiseart>86</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\halloween.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1010</SpeiseID>
+    <Name>Spagetthie</Name>
+    <Speiseart>72</Speiseart>
+    <Bewertung>***</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\default.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1011</SpeiseID>
+    <Name>Huhnerreis</Name>
+    <Speiseart>72</Speiseart>
+    <Bewertung>***</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\default.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1012</SpeiseID>
+    <Name>Gemüsesuppe</Name>
+    <Speiseart>86</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\default.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1013</SpeiseID>
+    <Name>Mamorkuchen</Name>
+    <Speiseart>78</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\default.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1014</SpeiseID>
+    <Name>Kaiserschmarn</Name>
+    <Speiseart>78</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\default.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1015</SpeiseID>
+    <Name>Palaschinken</Name>
+    <Speiseart>78</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\default.jpg</Bildpfad>
+  </Speise>
+  <Speise>
+    <SpeiseID>1016</SpeiseID>
+    <Name>Schnitzel</Name>
+    <Speiseart>72</Speiseart>
+    <Bewertung>*</Bewertung>
+    <ListeZutaten />
+    <Bildpfad>C:\Schule\03Hak\Ap\C#\01-Hü\6. Speiseplan\Speiseplan\Speiseplan\bin\Debug\img\Schnitzel.jpg</Bildpfad>
+  </Speise>
+</ArrayOfSpeise>

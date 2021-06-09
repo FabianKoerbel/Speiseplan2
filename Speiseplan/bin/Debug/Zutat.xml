@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfZutat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Zutat>
+    <ZutatID>1001</ZutatID>
+    <Menge>3</Menge>
+    <Einheit>Gramm</Einheit>
+    <Bezeichnung>Mehl</Bezeichnung>
+    <Allergene>A</Allergene>
+  </Zutat>
+  <Zutat>
+    <ZutatID>1002</ZutatID>
+    <Menge>3</Menge>
+    <Einheit>Stück</Einheit>
+    <Bezeichnung>Eier</Bezeichnung>
+    <Allergene>C</Allergene>
+  </Zutat>
+  <Zutat>
+    <ZutatID>1003</ZutatID>
+    <Menge>50</Menge>
+    <Einheit>ml</Einheit>
+    <Bezeichnung>Milch</Bezeichnung>
+    <Allergene>G</Allergene>
+  </Zutat>
+  <Zutat>
+    <ZutatID>1004</ZutatID>
+    <Menge>0</Menge>
+    <Einheit>Gramm</Einheit>
+    <Bezeichnung>Zucker</Bezeichnung>
+    <Allergene />
+  </Zutat>
+  <Zutat>
+    <ZutatID>1005</ZutatID>
+    <Menge>0</Menge>
+    <Einheit>Gramm</Einheit>
+    <Bezeichnung>Käse</Bezeichnung>
+    <Allergene>G</Allergene>
+  </Zutat>
+</ArrayOfZutat>
